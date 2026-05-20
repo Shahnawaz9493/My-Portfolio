@@ -337,16 +337,6 @@ class Developer:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahnawaz9493&theme=radical&hide_border=true)
-
-</div>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shahnawaz9493&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
