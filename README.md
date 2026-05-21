@@ -279,6 +279,8 @@ class Developer:
 
 **Tech:** Python, OpenCV, MediaPipe, PyAutoGUI, Pycaw
 
+**Status:** ✅ Complete | **Link:** 🔗 [View Project](https://github.com/Shahnawaz9493/Gesture_Control)
+
 ---
 
 ### 🎙️ Voice Command Assistant
