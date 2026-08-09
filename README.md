@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Mohammad%20Shahnawaz&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20AI%20Enthusiast%20|%20AI%20Agent%20Builder&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Mohammad%20Shahnawaz&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20AI%20Enthusiast%20|%20Data%20Analyst&descAlignY=58" width="100%"/>
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2DE370&background=0D111700&center=true&width=450&lines=Probably+building+AI+agents+right+now)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2DE370&background=0D111700&center=true&vCenter=true&width=450&lines=Turning+raw+data+into+decisions)](https://git.io/typing-svg)
 
 <p align="center">
-  🎓 Computer Science Engineering Student | 🤖 AI Enthusiast | 💻 Developer | 🤖 AI Agent Builder
+  🎓 Computer Science Engineering Student | 🤖 AI Enthusiast | 💻 Developer | 🤖 Data Analyst
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ class Developer:
         self.looking_for = "Internship opportunities in AI/ML"
     
     def currently_learning(self):
-        return ["AI Agent Builder", "LLM Integration", "Gemini AI API"]
+        return ["Power BI", "Advanced SQL", "LLM Integration"]
     
     def inspiration(self):
         return "Building AI that builds the future 🚀"
@@ -112,7 +112,7 @@ class Developer:
 ![Data Visualization](https://img.shields.io/badge/-Data%20Viz-blue?style=flat) • ![Dashboards](https://img.shields.io/badge/-Dashboards-green?style=flat) • ![Model Evaluation](https://img.shields.io/badge/-Model%20Eval-orange?style=flat)
 
 ### ⚡ AI & Automation
-![AI Agent Builder](https://img.shields.io/badge/-AI%20Agent%20Builder-purple?style=flat) • ![API Integration](https://img.shields.io/badge/-API%20Integration-blue?style=flat) • ![Gemini AI](https://img.shields.io/badge/-Gemini%20AI-green?style=flat)
+![Data Analyst](https://img.shields.io/badge/-Data%20Analyst-0A66C2?style=flat) • ![API Integration](https://img.shields.io/badge/-API%20Integration-blue?style=flat) • ![Gemini AI](https://img.shields.io/badge/-Gemini%20AI-green?style=flat)
 
 </div>
 
@@ -149,6 +149,35 @@ class Developer:
 **Flow:** 📝 Submit URL → 📜 Get Transcript → 🧠 AI Summarizes → 🎨 Generate → ☁️ Get Link
 
 **Status:** ✅ Live | **Link:** 🔗 [View Project](https://github.com/Shahnawaz9493/Infographic_creator)
+
+---
+
+### 🚕 Uber Rides Dashboard — Power BI
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+
+</div>
+
+> 📊 **Interactive Power BI dashboard analyzing Uber ride bookings across 6 vehicle types — Auto, Bike, Premier Sedan, Go Mini, Go Sedan, and Uber XL.**
+
+- ✅ Tracks completed rides, revenue, ratings, top pickup/drop locations, and lost bookings over 12 months
+- ✅ Dedicated report page per vehicle type for side-by-side comparison
+- ✅ DAX measures for completed/cancelled/incomplete rates and revenue aggregation
+- ✅ Data cleaned and modeled with Power Query
+
+| Vehicle | Completed | Revenue | Rating |
+|:---|:---|:---|:---|
+| Auto | 23K | ₹13M | 4.40★ |
+| Bike | 21K | ₹11M | 4.40★ |
+| Go Mini | 19K | ₹10M | 4.40★ |
+| Go Sedan | 17K | ₹9M | 4.41★ |
+| Premier Sedan | 11K | ₹6M | 4.40★ |
+| Uber XL | 2,783 | ₹2M | 4.40★ |
+
+**Status:** ✅ Complete | **Link:** 🔗 [View Project](https://github.com/Shahnawaz9493/uber-rides-dashboard)
 
 ---
 
